@@ -1,0 +1,12 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/jiabh/HIT-Software-Construction.git
+	branch = lab1
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/jiabh/HIT-Software-Construction.git
+	branch = lab2
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/jiabh/HIT-Software-Construction.git
+	branch = lab3
